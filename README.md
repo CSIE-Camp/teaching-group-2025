@@ -9,7 +9,8 @@
 ### 好工具
 - [時間調查 Xoyondo](https://xoyondo.com/)
 - [詳細時間調查 When2meet](https://www.when2meet.com/)
-- [Spreadsheets 網頁檢視](https://sitcon.org/submission-review/)
+- [SITCON Spreadsheets 網頁檢視器](https://sitcon.org/submission-review/)
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 ### 其他
 - 如何借資工系教室  
   將需求告知股長，他會協助你預約當週及隔週時段。
