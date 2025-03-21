@@ -9,7 +9,7 @@
 ### 好工具
 - [時間調查 Xoyondo](https://xoyondo.com/)
 - [詳細時間調查 When2meet](https://www.when2meet.com/)
-- [大字報](https://sm.nomeata.de/#t=%3A-))
+- [大字報](https://sm.nomeata.de/#t=%3A-)
 - [SITCON Spreadsheets 網頁檢視器](https://sitcon.org/submission-review/)
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 ### 其他
